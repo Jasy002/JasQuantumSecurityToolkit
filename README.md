@@ -273,7 +273,7 @@ GitHub:
 https://github.com/Jasy002
 
 LinkedIn:
-(Add your LinkedIn URL)
+https://linkedin.com/in/jasminesultana786
 
 ---
 
